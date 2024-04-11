@@ -1,0 +1,221 @@
+{
+    "data": {
+        "contact": {
+            "title": "Trusted by our community",
+            "subtitle": "Get in touch",
+            "text": ["We'd love to talk about how we can help you."],
+            "company": {
+                "name": "Norfolk Pressure Washing",
+                "phone": "123-456-7890",
+                "email": "hello@email.com",
+                "location": "Norfolk, ON"
+            }
+        },
+        "hero": {
+            "title": "Pressure Washing Service",
+            "subtitle": "Spring cleanup",
+            "highlighted": "simple",
+            "text": [
+                "Get your house ready for everything summer has to offer."
+            ],
+            "image": {
+                "source": "hero-image-lg.jpg",
+                "alt": "Norfolk Pressure Washing",
+                "width": "750",
+                "height": "500"
+            }
+        },
+        "mission": {
+            "title": "Our Mission",
+            "subtitle": "Keep your home clean each year",
+            "text": null,
+            "cards": [
+                {
+                    "icon": "Search",
+                    "title": "Attention to detail",
+                    "text": "Every job is completed to meet our high level of standards."
+                },
+                {
+                    "icon": "Clipboard2Check",
+                    "title": "Flexible plans",
+                    "text": "Single services, prebuilt plans, and custom solutions. Let's alleviate your needs."
+                },
+                {
+                    "icon": "People",
+                    "title": "Building a community",
+                    "text": "We love to connect with our community and meet like-minded individuals."
+                }
+            ]
+        },
+        "plans": {
+            "title": "Popular plans",
+            "subtitle": "Tailored plans for all your needs",
+            "text": [
+                " Discover a pre-built plan that fits your needs, or reach out to us and discuss a plan tailored to you."
+            ],
+            "cards": [
+                {
+                    "name": "Season Clean",
+                    "avgPrice": "1250",
+                    "spotlight": false,
+                    "services": [
+                        "Curb Appeal +",
+                        "Gutter clean out",
+                        "Exterior rinse",
+                        "Windows & Doors",
+                        "Deck / patio"
+                    ],
+                    "image": {
+                        "source": "spring-clean.jpg",
+                        "alt": "Spring Clean Plan",
+                        "width": "560",
+                        "height": "280"
+                    },
+                    "order": "2"
+                },
+                {
+                    "name": "Curb Appeal",
+                    "avgPrice": "350",
+                    "spotlight": true,
+                    "services": [
+                        "Driveway",
+                        "Front walkway and steps",
+                        "Front Porch",
+                        "Curb and Sidewalk"
+                    ],
+                    "image": {
+                        "source": "curb-appeal.jpg",
+                        "alt": "Curb Appeal Plan",
+                        "width": "560",
+                        "height": "280"
+                    },
+                    "order": "1"
+                },
+                {
+                    "name": "Quick Clean",
+                    "avgPrice": "800",
+                    "spotlight": false,
+                    "services": [
+                        "Gutter clean out",
+                        "Exterior rinse",
+                        "Windows & Doors",
+                        "Deck / patio"
+                    ],
+                    "image": {
+                        "source": "quick-clean.jpg",
+                        "alt": "Quick Clean Plan",
+                        "width": "560",
+                        "height": "280"
+                    },
+                    "order": "3"
+                }
+            ]
+        },
+        "about": {
+            "title": "About Norfolk Pressure Washing",
+            "subtitle": "Serving our community of Norfolk County.",
+            "text": [
+                "We live and operate in Norfolk. It's where we have built and continue to build our community. We take pride in each neighbour we serve.",
+                "We only use <span style='color:#187bcd;'>water</span> and <span style='color: #4c9a2a;'>green</span> cleaners. This allows us to remove organics like mold, algae, mildew and surface dirt without polluting our eco system and damaging your home with harsh chemicals."
+            ],
+            "quote": "This all started at our home, then it grew to our family and friends. Now we are serving our entire community.",
+            "image": {
+                "source": "about-background.jpg",
+                "alt": "Norfolk County",
+                "width": "675",
+                "height": "475"
+            }
+        },
+        "services": {
+            "title": "Services",
+            "subtitle": "We pride ourselves on the services we offer",
+            "text": [
+                "Browse the available services we have to offer, if you don't see something <a href='#contact' style='color:#187bcd; '>reach out</a> and we will be happy to help."
+            ],
+            "services": [
+                {
+                    "icon": "DropletHalf",
+                    "color": "red",
+                    "name": "High pressure washing",
+                    "text": "Perfect for stone, brick, cement pads, and driveways. Removes winter grim."
+                },
+                {
+                    "icon": "DropletHalf",
+                    "color": "teal",
+                    "name": "Low pressure washing",
+                    "text": "For siding, vinyl, painted material, and general purposes around your home."
+                },
+                {
+                    "icon": "Droplet",
+                    "color": "green",
+                    "name": "Deck and fence cleaning",
+                    "text": "Gently scrub and wash away all the hard to remove dirt and grim that naturally attracts to wood surfaces."
+                },
+                {
+                    "icon": "Basket3",
+                    "color": "purple",
+                    "name": "Gutter cleaning",
+                    "text": "A maintenance that is highly recommended for all home owners."
+                },
+                {
+                    "icon": "Border",
+                    "color": "blue",
+                    "name": "Deck and fence prep",
+                    "text": "Remove all dirt and grim from the top layer of your deck or fence to get ready for sealing or refinishing."
+                },
+                {
+                    "icon": "HouseHeart",
+                    "color": "red",
+                    "name": "Exterior home detailing",
+                    "text": "Bring life back to your home and help prevent bugs and pests with a deep exterior clean."
+                },
+                {
+                    "icon": "HouseDown",
+                    "color": "blue",
+                    "name": "Curb appeal detailing",
+                    "text": "Make your house shine from the road all the way to your front steps."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Faq",
+            "subtitle": "Want more details?",
+            "text": ["Here are some frequently asked questions "],
+            "questions": [
+                {
+                    "question": "What do you need from me?",
+                    "answer": "Our technician needs access to a standard water outlet so we ask home owners to check that their outside water outlet is clear and in working order before our scheduled cleaning. In addition we ask to remove any and all items off of the spaces to be cleaned."
+                },
+                {
+                    "question": "Do you use bleach or any other harsh chemicals?",
+                    "answer": "No. We only use water and green rated cleaners which are pet-safe and plant-safe. We don't want to harm your home or environment."
+                },
+                {
+                    "question": "Do you do commercial or agricultural?",
+                    "answer": "We love to serve our community but currently we only offer services to residential properties."
+                },
+                {
+                    "question": "Can you remove oil stains or rust spots?",
+                    "answer": "We only remove organic material and surface stains."
+                },
+                {
+                    "question": "Do you offer any discounts or promotional offers?",
+                    "answer": "We will send out occasional offers or discounts so sign up on our email list to get them direct!"
+                }
+            ]
+        },
+        "options": [
+            "sidewalk & curb",
+            "driveway",
+            "front walkway",
+            "front porch",
+            "carport/garage",
+            "house exterior",
+            "windows & doors",
+            "deck/patio",
+            "fence",
+            "cement pad",
+            "gutters"
+        ]
+    }
+}

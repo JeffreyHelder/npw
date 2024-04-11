@@ -1,0 +1,12 @@
+html {
+    color-scheme: light !important;
+}
+
+@keyframes fadeScaleOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
